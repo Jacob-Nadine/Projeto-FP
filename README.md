@@ -1,2 +1,0 @@
-# Projeto-FP
-Carros importados.
